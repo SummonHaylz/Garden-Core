@@ -1,0 +1,2 @@
+*.uasset filter=lfs diff=lfs merge=lfs -text
+*.uamap filter=lfs diff=lfs merge=lfs -text
